@@ -1,0 +1,25 @@
+{
+  "name": "react-storybook-decorator-background",
+  "version": "1.0.0",
+  "description": "Background colors for your React Storybook",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakelazaroff/react-storybook-decorator-background.git"
+  },
+  "keywords": [
+    "react",
+    "storybook",
+    "ui",
+    "styleguide"
+  ],
+  "author": "Jake Lazaroff <yo@jake.nyc> (http://jakelazaroff.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakelazaroff/react-storybook-decorator-background/issues"
+  },
+  "homepage": "https://github.com/jakelazaroff/react-storybook-decorator-background#readme"
+}
