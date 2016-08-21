@@ -1,6 +1,6 @@
 'use strict';
 
-import { Component } from 'react';
+import React, { Component } from 'react';
 
 var style = {
   wrapper: {
