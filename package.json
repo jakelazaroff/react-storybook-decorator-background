@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jakelazaroff/react-storybook-decorator-background#readme",
   "peerDependencies": {
-    "@kadira/storybook": "^2.2.3",
+    "@kadira/storybook": "^2.3.0",
     "react": "^15.3.1"
   },
   "devDependencies": {
