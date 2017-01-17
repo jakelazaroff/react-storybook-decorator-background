@@ -1,6 +1,6 @@
 'use strict';
 
-import React, { Component } from 'react';
+import React from 'react';
 
 var style = {
   wrapper: {
@@ -30,7 +30,7 @@ var style = {
   }
 }
 
-export class BackgroundColor extends Component {
+export class BackgroundColor extends React.Component {
 
   constructor(props, ctx) {
     super(props, ctx);
